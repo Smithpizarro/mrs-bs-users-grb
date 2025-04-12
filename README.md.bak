@@ -55,10 +55,7 @@ http://localhost:8092/grb/users POST
 
  ![Diagram](./src/main/resources/user_paso5.jpg "Diagram")
 
- ## 5. validacion del password
+  ## 5. validacion del password
   El formato es de minimo 8 caracteres y que tenga al menos 1 numero y un caracter en mayuscula.
   
-  ![Diagram](./src/main/resources/user_paso6.jpg "Diagram")
-   
-  ## 6. link del contrato swagger 
-  http://localhost:8092/swagger-ui/index.html
+   ![Diagram](./src/main/resources/user_paso6.jpg "Diagram")
